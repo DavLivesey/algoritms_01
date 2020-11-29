@@ -1,1 +1,1 @@
-# algoritms_01
+# Algoritmic exercises
